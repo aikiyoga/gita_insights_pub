@@ -1,0 +1,1 @@
+import '@/ai/flows/generate-verse-explanation.ts';
